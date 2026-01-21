@@ -1,2 +1,2 @@
-# python-day1
-3 prgrms for today
+num = input("Enter something:")
+print("you entered:",num)
